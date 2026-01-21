@@ -23,10 +23,10 @@
 
 I build things because I’m curious how they work — and I break them because that’s how you really learn.
 
-- 🔭 Working on Machine Learning & engineering projects  
-- 🧠 Interested in systems, models, and how ideas scale  
-- 🤝 Open to collaboration on meaningful projects  
-- 💬 Ask me about tech, math, or why simple solutions are underrated  
+🔭 Working on Machine Learning projects  
+🧠 Interested in systems, models, and how ideas scale 
+🤝 Always open to collabore on projects  
+💬 Ask me about tech, math, philosophy or why simple solutions are underrated  
 
 <!-- About-me GIF goes here -->
 <!-- <img src="PATH_TO_YOUR_GIF" width="100%" /> -->
@@ -49,7 +49,7 @@ I build things because I’m curious how they work — and I break them because 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prashanthemm&theme=dracula" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=prashanthemm&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=prashanthemm&theme=dracula&show_icons=true&include_all_commits=true&count_private=true" />
   <br/>
@@ -100,7 +100,7 @@ I build things because I’m curious how they work — and I break them because 
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
--->
+<!-- --> -->
 
 <!--
 ## 🧠 Boot.dev Progress
