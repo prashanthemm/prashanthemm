@@ -47,7 +47,7 @@ I build things because I’m curious how they work — and I break them because 
 
 <!-- --- -->
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=prashanthemm&theme=dracula" />
@@ -67,7 +67,6 @@ I build things because I’m curious how they work — and I break them because 
   <img src="https://github-profile-trophy.vercel.app/?username=prashanthemm&theme=radical&no-frame=true&margin-w=15" />
 </p> -->
 
----
 
 ## 🎧 Spotify Playing
 
