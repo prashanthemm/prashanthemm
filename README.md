@@ -2,18 +2,18 @@
   <source
     media="(prefers-color-scheme: dark)"
     srcset="
-      https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=36&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=60&lines=Powered+by+curiosity+and+poor+sleep+decisions
+      https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=36&pause=1000&color=000000&center=true&vCenter=true&width=800&height=60&lines=Powered+by+curiosity
     "
   />
   <source
     media="(prefers-color-scheme: light)"
     srcset="
-      https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=36&pause=1000&color=000000&center=true&vCenter=true&width=800&height=60&lines=Powered+by+curiosity+and+poor+sleep+decisions
+      https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=36&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=60&lines=Powered+by+curiosity
     "
   />
   <img
     alt="Star History Chart"
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=36&pause=1000&color=000000&center=true&vCenter=true&width=800&height=60&lines=Powered+by+curiosity+and+poor+sleep+decisions"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=36&pause=1000&color=000000&center=true&vCenter=true&width=800&height=60&lines=Powered+by+curiosity"
   />
 </p>
 
