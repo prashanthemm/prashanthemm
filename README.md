@@ -47,17 +47,19 @@ I build things because I’m curious how they work — and I break them because 
 
 <!-- --- -->
 
-<!-- ## 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=prashanthemm&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=prashanthemm&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=prashanthemm&theme=dracula&show_icons=true&include_all_commits=true&count_private=true" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=prashanthemm&theme=dracula&show_icons=true&include_all_commits=true&count_private=true" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashanthemm&theme=dracula&layout=compact" />
-</p> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashanthemm&theme=dracula&layout=compact" /> -->
+</p> 
 
-<!-- --- -->
+---
+
+<!-- ---
 
 <!-- ## 🏆 GitHub Trophies
 
