@@ -24,7 +24,7 @@
 I build things because I’m curious how they work — and I break them because that’s how you really learn.
 
 🔭 Working on Machine Learning projects  
-🧠 Interested in systems, models, and how ideas scale 
+🧠 Interested in systems, models, and architecture  
 🤝 Always open to collabore on projects  
 💬 Ask me about tech, math, philosophy or why simple solutions are underrated  
 
@@ -43,10 +43,11 @@ I build things because I’m curious how they work — and I break them because 
 
 ## 💻 Tech Stack
 <!-- Add your tech stack badges here -->
+![C++](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Oracle Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 	![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=prashanthemm&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats" />
@@ -54,15 +55,15 @@ I build things because I’m curious how they work — and I break them because 
   <img src="https://github-readme-stats.vercel.app/api?username=prashanthemm&theme=dracula&show_icons=true&include_all_commits=true&count_private=true" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashanthemm&theme=dracula&layout=compact" />
-</p>
+</p> -->
 
 ---
 
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=prashanthemm&theme=radical&no-frame=true&margin-w=15" />
-</p>
+</p> -->
 
 ---
 
@@ -75,23 +76,23 @@ I build things because I’m curious how they work — and I break them because 
 
 ---
 
-## 🐍 Contribution Snake
+<!-- ## 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prashanthemm/prashanthemm/main/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prashanthemm/prashanthemm/main/output/github-contribution-grid-snake.svg">
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/prashanthemm/prashanthemm/main/output/github-contribution-grid-snake.svg">
-</picture>
+</picture> -->
 
 ---
 
-## 👾 Cute Maze (Pacman Style)
+<!-- ## 👾 Cute Maze (Pacman Style)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prashanthemm/prashanthemm/main/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prashanthemm/prashanthemm/main/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/prashanthemm/prashanthemm/main/output/pacman-contribution-graph.svg">
-</picture>
+</picture> -->
 
 ---
 
