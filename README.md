@@ -52,7 +52,7 @@ I build things because I’m curious how they work — and I break them because 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prashanthemm&theme=dracula" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=prashanthemm&theme=dracula&show_icons=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prashanthemm&theme=dracula&show_icons=true" />
   <!-- <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashanthemm&theme=dracula&layout=compact" /> -->
 </p> 
