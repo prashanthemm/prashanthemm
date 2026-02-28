@@ -21,12 +21,13 @@
 
 ## 👋 About Me
 
-I build things because I’m curious how they work — and I break them because that’s how you really learn.
+Professional overthinker. Occasional engineer. AI/MLOps.  
 
-🔭 Working on Machine Learning projects  
-🧠 Interested in systems, models, and architecture  
-🤝 Always open to collabore on projects  
-💬 Ask me about tech, math, philosophy or why simple solutions are underrated  
+I debug life the same way I debug code: log more, assume less, delete what doesn’t matter.   
+
+Currently arguing with computers and claiming victory (pending verification).   
+
+Have you tried turning it off and on again?  
 
 <!-- About-me GIF goes here -->
 <!-- <img src="PATH_TO_YOUR_GIF" width="100%" /> -->
@@ -61,13 +62,6 @@ I build things because I’m curious how they work — and I break them because 
 
 <!-- ---
 
-<!-- ## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prashanthemm&theme=radical&no-frame=true&margin-w=15" />
-</p> -->
-
-
 ## 🎧 Spotify Playing
 
 <!-- Requires Spotify setup -->
@@ -96,16 +90,3 @@ I build things because I’m curious how they work — and I break them because 
 </picture> -->
 
 <!-- --- -->
-
-<!--
-## ⏱ WakaTime Stats
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-<!-- -->
-
-<!--
-## 🧠 Boot.dev Progress
-
-<img src="https://api.boot.dev/v1/users/public/YOUR_UUID/thumbnail" />
--->
