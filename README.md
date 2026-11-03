@@ -11,7 +11,9 @@
 
 
 <p align="center">
-  <i>Curiosity is a feature, not a bug.</i>
+  <i>"Curiosity is a feature, not a bug."</i>
+  <br/>
+  <sub>— An Anonymous Intellectual, 1926, Probably</sub>
 </p>
 
 
@@ -117,7 +119,10 @@
 
 
 <p align="center">
-  <i>Too curious to leave things alone. Too stubborn to leave them unfinished.</i>
+  <i>"Too curious to leave things alone.
+  Too stubborn to leave them unfinished."</i>
+  <br/>
+  <sub>— Prashant Kumar, During a Side Quest, 2026</sub>
 </p>
 
 ---
@@ -279,6 +284,11 @@
 
 ---
 
+
+
+
+
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=prashanthemm&label=Curious+Visitors&color=blueviolet&style=flat-square" />
 </p>
@@ -290,3 +300,12 @@
 <p align="center">
   <i>Thanks for stopping by. Stay curious. 🚀</i>
 </p>
+
+---
+
+<p align="center">
+  <i>"I only work in black. And sometimes, very, very dark gray."</i>
+  <br/>
+  <sub>— LEGO Batman (2017)</sub>
+</p>
+
