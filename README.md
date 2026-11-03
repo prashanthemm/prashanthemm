@@ -214,7 +214,7 @@
 -->
 ---
 
-## 🌐 Find Me Around the Internet
+## 🌐 Find Me in the Digital Wilderness
 
 <p align="center">
   <a href="https://instagram.com/prashanthemm">
