@@ -9,66 +9,193 @@
   </picture>
 </p>
 
-<p align="center">
-  <i>Curiosity is a feature, not a bug.</i>
-</p>
 
-<h1>
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=800&lines=Fiction+to+Reality...%F0%9F%92%A1++" alt="Typing SVG" /></a>
-</h1>
 
 
 
 ## 👋 About Me
 
-Professional overthinker.
+<!-- CLIPPING 01 -->
 
-Occasional engineer.
+> **THE DAILY SIDE QUEST**
+>
+> <sub>CLIPPING 01 · EST. 2026 · THE DAILY EDITION</sub>
+>
+> ---
+>
+> ### LOCAL MAN MISTAKES CURIOSITY FOR A CAREER PATH
+>
+> *An investigation into the professional consequences of asking "what if?"*
 
-Amateur pterodactyl.
+<br/>
 
-MLOps chef.
+---
+
+<!-- CLIPPING 02 -->
+
+> **THE CURIOUS TIMES**
+>
+> <sub>CLIPPING 02 · SCIENCE · RESEARCH · QUESTIONABLE FINDINGS</sub>
+>
+> ---
+>
+> ### LOCAL MAN DISCOVERS PROBLEMS THAT DIDN'T EXIST BEFORE
+>
+> *Experts suspect excessive curiosity. Investigation remains ongoing.*
+
+<br/>
+
+---
+
+<!-- CLIPPING 03 -->
+
+> **THE PECULIAR GAZETTE**
+>
+> <sub>CLIPPING 03 · EXTRA! EXTRA! · SPECIAL EDITION</sub>
+>
+> ---
+>
+> # LOCAL MAN ACCIDENTALLY DEVELOPS A PERSONALITY
+>
+> *Witnesses describe the transformation as entirely unnecessary.*
+
+<br/>
+
+---
+
+
+
+
+
+
+
+### *Curriculum Vitae of a Questionable Intellectual*
+
+```text
+╔══════════════════════════════════════════════════════════╗
+║             PERSONNEL FILE 01 : PRASHANT.exe             ║
+╠══════════════════════════════════════════════════════════╣
+║                                                          ║
+║  DESIGNATION       : Professional Overthinker            ║
+║  PROFESSION        : Occasional Engineer                 ║
+║  SPECIALIZATION    : MLOps Chef                          ║
+║                                                          ║
+║  RESEARCH DIVISION : Bug Anthropology                    ║
+║  SIDE QUEST        : Unlicensed Philosophy               ║
+║                                                          ║
+║  SPECIAL ABILITIES : Database Therapist                  ║
+║                      Neural Network Whisperer            ║
+║                                                          ║
+║  ADMINISTRATIVE POSITIONS                                ║
+║    → CEO of Side Quests                                  ║
+║    → Minister of Tomfoolery                              ║
+║                                                          ║
+║  KNOWN ALIASES     : Amateur Pterodactyl                 ║
+║                                                          ║
+║  UNEXPLAINED PHENOMENA : Accidental Goblin               ║
+║                                                          ║
+║  THREAT LEVEL      : Potentially Sentient                ║
+║                                                          ║
+╠══════════════════════════════════════════════════════════╣
+║                     CHARACTER STATS                      ║
+╠══════════════════════════════════════════════════════════╣
+║                                                          ║
+║  CURIOSITY       : ██████████  100/100                   ║
+║  OVERTHINKING    : █████████████   140/100               ║
+║  SANITY          : ██████         60/100                 ║
+║  PRODUCTIVITY    : ████████   80/100                     ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+*⚠️ Warning: May spontaneously investigate unrelated rabbit holes, develop elaborate theories, and forget what the original task was.*
+
+---
+
+
+
+<p align="center">
+  <i>Too curious to leave things alone. Too stubborn to leave them unfinished.</i>
+</p>
 
 ---
 
 
 ## 💻 Tech Stack
 
-**Languages & Scripting**
+### 👨‍💻 Languages & Scripting
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
 
-**Data Science & Machine Learning**
+### 📊 Data Science & Visualization
 
 <p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+</p>
+
+### 🤖 AI & Machine Learning
+
+<p>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-189B55?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLTK-154F3C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" />
 </p>
 
-**Databases & Tools**
+### ⚙️ MLOps & Automation
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" />
+</p>
+
+### 🗄️ Databases
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-**Creative Tools**
+### ☁️ Cloud, Development & Tools
 
 <p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/JupyterLab-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
 
@@ -153,6 +280,12 @@ MLOps chef.
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=prashanthemm&label=Curious+Visitors&color=blueviolet&style=flat-square" />
 </p>
+
+
+<p align="center">
+  <i>Curiosity is a feature, not a bug.</i>
+</p>
+
 
 <p align="center">
   <i>Thanks for stopping by. Stay curious. 🚀</i>
