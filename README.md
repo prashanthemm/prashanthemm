@@ -17,17 +17,22 @@
   />
 </p>
 
----
+<h1>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=800&lines=Fiction+to+Reality...%F0%9F%92%A1++" alt="Typing SVG" /></a>
+</h1>
+
+
 
 ## 👋 About Me
 
-Professional overthinker. Occasional engineer. AI/MLOps.  
+Professional overthinker.
 
-I debug life the same way I debug code: log more, assume less, delete what doesn’t matter.   
+Occasional engineer.
 
-Currently arguing with computers and claiming victory (pending verification).   
+Amateur pterodactyl. 
 
-Have you tried turning it off and on again?  
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prashanthemm&label=Profile%20views&color=green&style=flat" alt="prashanthemm" /> </p>
 
 <!-- About-me GIF goes here -->
 <!-- <img src="PATH_TO_YOUR_GIF" width="100%" /> -->
