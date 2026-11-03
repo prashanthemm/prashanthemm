@@ -234,7 +234,6 @@
 -->
 ---
 
-
 ## 🌐 Find Me in the Digital Wilderness
 
 <p align="center">
