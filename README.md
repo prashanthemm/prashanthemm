@@ -13,7 +13,11 @@
   <i>Curiosity is a feature, not a bug.</i>
 </p>
 
----
+<h1>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=800&lines=Fiction+to+Reality...%F0%9F%92%A1++" alt="Typing SVG" /></a>
+</h1>
+
+
 
 ## 👋 About Me
 
