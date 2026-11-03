@@ -69,9 +69,9 @@
 ## 👋 About Me
 
 Professional overthinker. Occasional engineer. Amateur pterodactyl.
-  
+<!--
 <img  align="right" alt="Coding" width="40%" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
-
+-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashanthemm&label=Profile%20views&color=green&style=flat" alt="prashanthemm" /> </p>
 <!-- About-me GIF goes here -->
 <!-- <img src="PATH_TO_YOUR_GIF" width="100%" /> -->
