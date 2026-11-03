@@ -10,7 +10,9 @@
 </p>
 
 
-
+<p align="center">
+  <i>Curiosity is a feature, not a bug.</i>
+</p>
 
 
 ## 👋 About Me
@@ -282,9 +284,7 @@
 </p>
 
 
-<p align="center">
-  <i>Curiosity is a feature, not a bug.</i>
-</p>
+
 
 
 <p align="center">
